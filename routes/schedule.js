@@ -17,3 +17,4 @@ router.put('/:id', updateSchedule);
 router.delete('/:id', deleteSchedule);
 
 export default router;
+
